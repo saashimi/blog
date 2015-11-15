@@ -75,7 +75,7 @@ static maps (again, more on this in a future post).
 
 ![static map]({{ site.baseurl }}/assets/2015-11-15_test.png)
 
-3 Route 9 vehicles in service (data is from early Saturday morning), as shown on
+4 Route 9 vehicles in service (data is from early Saturday morning), as shown on
 a google static map! And there is our proof of concept.  
 
 From here it's a long way to a full-fledged app, but the critical functionality
