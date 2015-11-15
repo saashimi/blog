@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This blog is intended to document my progress with my PDX Code Guild capstone 
   project, which is an attempt at mapping realtime geolocation data for Portland's 
   TriMet system.
-url: "http://saashimi.github.io/blog" # the base hostname & protocol for your site
+baseurl: "/blog" # the base hostname & protocol for your site
 twitter_username: saashimi
 github_username:  saashimi
 

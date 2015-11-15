@@ -20,7 +20,7 @@ As an occasional TriMet rider, I've often found myself wondering where a particu
 TriMet vehicle is. While TriMet's website allows you to do this, it requires that 
 you select a current stop to see the time-to-arrival of the closest vehicle. 
 
-![TriMet screenshot]({{ site.url }}/assets/2015-11-15_22-07-48.png)
+![TriMet screenshot]({{ site.baseurl }}/assets/2015-11-15_22-07-48.png)
 
 This is fine for most purposes, but what if you were running late and wanted to 
 see if you could meet a particular bus that wasn't the current or the next one?
@@ -73,7 +73,7 @@ allowed me to extract the latitude and longitude positions of the buses.
 From there it was straightforward to pass the positions as markers into google 
 static maps (again, more on this in a future post). 
 
-![static map]({{ site.url }}/assets/2015-11-15_test.png)
+![static map]({{ site.baseurl }}/assets/2015-11-15_test.png)
 
 3 Route 9 vehicles in service (data is from early Saturday morning), as shown on
 a google static map! And there is our proof of concept.  
