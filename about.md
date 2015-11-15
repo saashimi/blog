@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # About Me #
-Give a bit of credit, I'm new at this. 
+Give me a bit of credit, I'm new at this. 
 
 My academic background has been in [City Planning][planning] and [Geography][geography], and I started my career working for private architecture and planning firms.  Consequently, I've
 been making maps for a long time, but these were static maps intended for the printed
